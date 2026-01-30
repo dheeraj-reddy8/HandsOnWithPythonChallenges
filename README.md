@@ -1,3 +1,9 @@
+CSE 205 Hands On With Python Daily Challenges:
+This repository contains solutions for all daily challenges from the Hands-on Python (CSE205) – Code2Xplore 60 Days Challenge at SRM University-AP. Each day focuses on core Python concepts, problem-solving, and clean logic implementation under given constraints. All solutions are organized day-wise for easy reference.
+
+
+
+
 Day-1 : Useer Profile Validation
 
 This project is part of my Python Daily Challenges series.
@@ -26,5 +32,6 @@ For email validation, the program checks that the email contains both the at sym
 To validate the mobile number, the program checks that it has exactly 10 characters, that all characters are digits, and that the number does not start with 0. If all these conditions are met, the variable Mobile_valid is set to true; otherwise, it is set to false.
 For age validation, the program checks whether the age is between 18 and 60. If it is, the variable Age_valid is set to true; otherwise, it is set to false.
 Finally, the program checks all the validation results together. If Name_valid, Email_valid, Mobile_valid, and Age_valid are all true, the program prints "User Profile is VALID". If any one of them is false, it prints "User Profile is INVALID".
+
 
 
