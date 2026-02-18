@@ -103,7 +103,7 @@ Requests: [10, 25, 60, -3, 0, 45, 80]
 Name: Dheeraj Reddy
 
 Example Output (Sample)
-Length of name (no spaces): 12
+Length of name (no spaces (L)): 12
 PLI Value: 0
 
 Before Personalizing:
@@ -147,5 +147,6 @@ Technologies Used:
 Python 
 
 Basic console input/output
+
 
 Core Python concepts (lists, loops, conditions)
